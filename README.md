@@ -155,6 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Abdelali Rami - [Github](https://github.com/alijr2018) / [Twitter](https://twitter.com/Alijr_2018)  
+Prince Tobit - [Github](https://github.com/tobitprince) / [Twitter](https://twitter.com/tobitprince)
 
 ## License
 Public Domain. No copy write protection. 
